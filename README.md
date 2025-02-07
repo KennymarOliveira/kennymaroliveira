@@ -4,8 +4,6 @@
 
 I'm passionate about transforming data into useful information to help people in the best way possible. I am focused on data analysis, machine learning and process automation to optimize decisions and improve efficiency.
 
----
-
 ## 🚀 About Me  
 
 🔹 Experienced in Python, ETL, SQL, Machine Learning, Computer Vision, Pandas, Scikit-Learn, PyQt6 and others.  
@@ -22,8 +20,6 @@ Currently, I'm working on projects involving:
 
 ✅ AI applications for computer vision 
 
----
-
 ## 💻 Projects  
 
 🔹 [🖥️ Robotic Arm Control Using YOLOv11 For Hand Segmentation](https://github.com/your-username/yolo-hand-segmentation)  
@@ -38,7 +34,6 @@ Currently, I'm working on projects involving:
 <!--🔹 [🌡️ Smart Temperature Control](https://github.com/your-username/smart-temperature-control)  
 📌 Automated temperature control system based on DHT11 and PIR sensors.  
 -->
----
 
 ## 🛠️ Technologies  
 
@@ -61,8 +56,6 @@ Currently, I'm working on projects involving:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title = "Numpy" alt = "Numpy" width = "50" height = "50">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "PyQt6" alt = "PyQt6" width = "50" height = "50">
 </div>
-
----
 
 ## 📫 Connect with Me
 
