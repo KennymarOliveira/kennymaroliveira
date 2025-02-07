@@ -36,9 +36,9 @@
 
 ---
 
-<div id="projects" align="center">
+<div id="recent-projects" align="center">
 
-  ## 💻 Projects  
+  ## 💻 Recent Projects  
   
   📌 [🖥️ Robotic Arm Control Using YOLOv11 For Hand Segmentation](https://github.com/your-username/yolo-hand-segmentation) - Real-time hand detection and segmentation using YOLO and OpenCV.
 
@@ -71,11 +71,13 @@
   
 </div>
 
----
+<p>
+   
+</p>
 
 <div id="stats" align="center">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=dark&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=dark&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=github_dark&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=github_dark&count_private=true"/>
 </div>
 
 ---
