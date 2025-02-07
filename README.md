@@ -74,8 +74,8 @@
 ---
 
 <div id="stats" align="center">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=dark&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=dark&count_private=true"/>
 </div>
 
 ---
