@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 <div id="" align="center">
   
   ## 🚀 About Me
@@ -32,6 +34,8 @@
 
 </div>
 
+---
+
 <div id="projects" align="center">
 
   ## 💻 Projects  
@@ -45,6 +49,8 @@
   <!--📌 [🌡️ Smart Temperature Control](https://github.com/your-username/smart-temperature-control) - Automated temperature control system based on DHT11 and PIR sensors.--> 
   
 </div>
+
+---
 
 <div id="technologies" align="center">
   
@@ -60,12 +66,21 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title = "Pandas" alt = "Pandas" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title = "Matplotlib" alt = "Matplotlib" width = "50" height = "50">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title = "Numpy" alt = "Numpy" width = "50" height = "50">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "PyQt6" alt = "PyQt6" width = "50" height = "50">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title = "Qt" alt = "Qt" width = "50" height = "50">
   </div>
   
 </div>
 
-<div id="badges" align="center">
+---
+
+<div id="stats" align="center">
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
+</div>
+
+---
+
+<div id="contact-badges" align="center">
   
   ## 📫 Connect with Me
   
@@ -74,12 +89,6 @@
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:kennymar.oliveira70@gmail.com)
 
 </div>
-
-<div id="stats" align="center">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=kennymaroliveira&show_icons=true&theme=dracula&count_private=true"/>
-</div>
-
 
 <!--## 🌐 Portfolio: [your-username.github.io](https://your-username.github.io/)-->
 
