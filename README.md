@@ -40,7 +40,7 @@
 
   ## 💻 Recent Projects  
   
-  📌 [🖥️ Robotic Arm Control Using YOLOv11 For Hand Segmentation](https://github.com/your-username/yolo-hand-segmentation) - Real-time hand detection and segmentation using YOLO and OpenCV.
+  📌 [🖥️ Robotic Arm Control Using YOLOv11 For Hand Segmentation](https://github.com/heltonmaia/ECT-proj-roboticArm) - Real-time hand detection and segmentation using YOLO and OpenCV.
 
   📌 [📊 Synthetic Insurance Data Analysis](https://github.com/KennymarOliveira/synthetic_insurance_data_eda) - Exploratory data analysis (EDA) on a dataset with 270000 items, identifying useful client patterns.  
   
