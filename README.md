@@ -46,7 +46,7 @@
   
   📌 [📝 Qt Notepad App](https://github.com/KennymarOliveira/notepadd) - A simple notepad aplication written in C++ using Qt.
  
-  <!--📌 [🌡️ Smart Temperature Control](https://github.com/your-username/smart-temperature-control) - Automated temperature control system based on DHT11 and PIR sensors.--> 
+  📌 [🌡️ Smart Temperature Control](https://github.com/KennymarOliveira/smart_temperature_control/) - Automated temperature control system based on DHT11 and PIR sensors.
   
 </div>
 
